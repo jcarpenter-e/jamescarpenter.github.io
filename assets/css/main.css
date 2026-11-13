@@ -83,7 +83,7 @@ input, select, textarea {
 
 	body {
     background: #D4D9DD url("images/bg03.jpg");
-    color: #474f51;
+    color: #12ff12;
     font-size: 13.5pt;
     font-family: 'Share Tech Mono', monospace; /* Updated */
     line-height: 1.85em;
@@ -91,7 +91,7 @@ input, select, textarea {
 	}
 
 	input, textarea, select {
-    color: #474f51;
+    color: #12ff12;
     font-size: 13.5pt;
     font-family: 'Share Tech Mono', monospace; /* Updated */
     line-height: 1.85em;
